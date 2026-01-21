@@ -1,84 +1,76 @@
-🌐 How to Put This Website Online (GitHub Pages)
+# 🌐 How to Put This Website Online (GitHub Pages)
 
 This project is a website made with:
 
-index.html (the website)
+- `index.html` (the website)
+- `style.css` (the design)
+- `script.js` (the code/logic)
 
-style.css (the design)
+We can host it online for FREE using **GitHub Pages**.
 
-script.js (the code/logic)
+---
 
-We can host it online for FREE using GitHub Pages.
+## ✅ Step 1: Upload your files to GitHub
 
-✅ Step 1: Upload your files to GitHub
+1. Go to **GitHub.com**
+2. Click **New Repository**
+3. Name it something like: `my-website`
+4. Click **Create Repository**
+5. Upload your project files:
+   - `index.html`
+   - `style.css`
+   - `script.js`
 
-Go to GitHub.com
+✅ IMPORTANT: Your main file must be called **`index.html`**
 
-Click New Repository
+---
 
-Name it something like: my-website
+## ✅ Step 2: Turn on GitHub Pages
 
-Click Create Repository
+1. Go to your GitHub repository
+2. Click **Settings**
+3. On the left side, click **Pages**
+4. Under **Source**, choose:
+   - Deploy from a branch
+5. Under **Branch**, choose:
+   - `main`
+   - `/root`
+6. Click **Save**
 
-Upload your project files:
+---
 
-index.html
-
-style.css
-
-script.js
-
-✅ IMPORTANT: Your main file must be called index.html
-
-✅ Step 2: Turn on GitHub Pages
-
-Go to your GitHub repository
-
-Click Settings
-
-On the left side, click Pages
-
-Under Source, choose:
-
-Deploy from a branch
-
-Under Branch, choose:
-
-main
-
-/root
-
-Click Save
-
-✅ Step 3: Get your website link
+## ✅ Step 3: Get your website link
 
 After you save it, GitHub will give you a website link like this:
 
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+`https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`
 
+⏳ It might take **1–2 minutes** to work the first time.
 
-⏳ It might take 1–2 minutes to work the first time.
+---
 
-✅ Step 4: Update your website later
+## ✅ Step 4: Update your website later
 
-Whenever you change your code and upload it to GitHub again,
+Whenever you change your code and upload it to GitHub again,  
 your website updates automatically ✅
 
 Just refresh the page.
 
-🧠 If something doesn’t work…
+---
 
-✅ Make sure your file is named exactly:
+## 🧠 If something doesn’t work...
 
-index.html
+Make sure your file names are exactly:
 
-style.css
+- `index.html`
+- `style.css`
+- `script.js`
 
-script.js
+⚠️ GitHub is picky about spelling and capital letters.  
+Example: `Style.css` is NOT the same as `style.css`
 
-⚠️ GitHub is picky about spelling and capital letters
-(example: Style.css is NOT the same as style.css)
+---
 
-🎉 Done!
+## 🎉 Done!
 
 Your project is now online and shareable 😄✅
